@@ -1,0 +1,340 @@
+{
+    "tshirts":{
+        "url":"https://www.cos.com/en_eur/women/t-shirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\tshirts",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"
+    },
+	"tops":{
+        "url":"https://www.cos.com/en_eur/women/tops.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\tshirts",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ТОПЫ И БОДИ", 
+		"subcategory": "ТОПЫ"
+    },
+	
+    "dress":{
+        "url":"https://www.cos.com/en_eur/women/dresses.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\dress",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ПЛАТЬЯ И КОМБИНЕЗОНЫ", 
+		"subcategory": "ПЛАТЬЕ"
+    },
+	"jumpsuits":{
+        "url":"https://www.cos.com/en_eur/women/dresses/jumpsuits.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\jumpsuits",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ПЛАТЬЯ И КОМБИНЕЗОНЫ", 
+		"subcategory": "КОМБИНЕЗОН"
+    },
+	"блузка_женская":{
+        "url":"https://www.cos.com/en_eur/women/shirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\блузка_женская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "БЛУЗКИ"
+    },
+	"бюстгальтер":{
+        "url":"https://www.cos.com/en_eur/women/underwear/bras.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\бюстгальтер",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "БЮСТГАЛТЕР"
+    },
+	"trousers":{
+        "url":"https://www.cos.com/en_eur/women/trousers.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\trousers",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"
+    },
+	"джинсы_женские":{
+        "url":"https://www.cos.com/en_eur/women/jeans.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\джинсы_женские",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"
+    },
+	"куртка_женская":{
+        "url":"https://www.cos.com/en_eur/women/coats-and-jackets/jackets.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\куртка_женская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"
+    },
+	"куртка_мужская":{
+        "url":"https://www.cos.com/en_eur/men/coats-and-jackets/jackets.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\куртка_мужская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"
+    },
+	"пальто_женское":{
+        "url":"https://www.cos.com/en_eur/women/coats-and-jackets.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\пальто_женское",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"7",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ПАЛЬТО И ДУБЛЕНКИ", 
+		"subcategory": "ПАЛЬТО"
+    },
+	"пальто_мужское":{
+        "url":"https://www.cos.com/en_eur/men/coats-and-jackets/coats.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\пальто_мужское",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ПАЛЬТО И ДУБЛЕНКИ", 
+		"subcategory": "ПАЛЬТО"
+    },
+	"пуховик_женский":{
+        "url":"https://www.cos.com/en_eur/women/coats-and-jackets/puffer-jackets.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\пуховик_женский",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ПУХОВИКИ И ПАРКИ", 
+		"subcategory": "ПУХОВИК"
+    },
+	"пиджак_женский":{
+        "url":"https://www.cos.com/en_eur/women/tailoring/blazers.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\пиджак_женский",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ПИДЖАК"
+		
+    },
+	"юбка_женская":{
+        "url":"https://www.cos.com/en_eur/women/skirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\юбка_женская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ЮБКИ", 
+		"subcategory": "ЮБКА"
+    },
+	"рубашка_женская":{
+        "url":"https://www.cos.com/en_eur/women/shirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\рубашка_женская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"
+    },
+	"кардиган_женский":{
+        "url":"https://www.cos.com/en_eur/women/knitwear/cardigans.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\кардиган_женский",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "КАРДИГАН"
+    },
+	"knitwear":{
+        "url":"https://www.cos.com/en_eur/women/knitwear.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\knitwear",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"
+    },
+	"футболка_мужская":{
+        "url":"https://www.cos.com/en_eur/men/t-shirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\футболка_мужская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"
+    },
+	"свитер_мужской":{
+        "url":"https://www.cos.com/en_eur/men/knitwear/jumpers.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\свитер_мужской",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"
+    },
+	"поло_мужское":{
+        "url":"https://www.cos.com/en_eur/men/t-shirts/polo-shirts.html?sort=newestProduct",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\поло_мужское",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ПОЛО"
+    },
+	
+	
+	
+	
+	"flat_shoes":{
+        "url":"https://www.cos.com/en_eur/women/shoes/flats.html?sort=newestProduct",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\flat_shoes",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"ТУФЛИ", 
+		"subcategory": "ТУФЛИ"
+    },
+	"heels_shoes":{
+        "url":"https://www.cos.com/en_eur/women/shoes/heels.html?sort=newestProduct",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\heels_shoes",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"БОСОНОЖКИ", 
+		"subcategory": "БОСОНОЖКИ"
+    },
+	"sandals_shoes":{
+        "url":"https://www.cos.com/en_eur/women/shoes/sandals.html",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\sandals_shoes",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"САНДАЛИИ", 
+		"subcategory": "САНДАЛИИ"
+    },
+	"сапоги_женские":{
+        "url":"https://www.cos.com/en_eur/women/shoes/boots.html?sort=newestProduct",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\сапоги_женские",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"САПОГИ", 
+		"subcategory": "САПОГИ"
+    },
+	"ботильоны_женские":{
+        "url":"https://www.cos.com/en_eur/women/shoes/boots.html?sort=newestProduct",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\ботильоны_женские",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"БОТИЛЬОНЫ", 
+		"subcategory": "БОТИЛЬОНЫ"
+    },
+	"ботинки_мужские":{
+        "url":"https://www.cos.com/en_eur/men/shoes.html",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\ботинки_мужские",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"man",		
+		"category":"БОТИНКИ", 
+		"subcategory": "БОТИНКИ"
+    },
+	
+	"ремень_женский":{
+        "url":"https://www.cos.com/en_eur/women/belts.html",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\ремень_женский",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"РЕМНИ", 
+		"subcategory": "РЕМЕНЬ"
+    },
+	"шарф_женский":{
+        "url":"https://www.cos.com/en_eur/women/hats-scarves-and-gloves/scarves.html?sort=newestProduct",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\шарф_женский",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШАРФЫ", 
+		"subcategory": "ШАРФЫ"
+    },
+	"шарф_мужской":{
+        "url":"https://www.cos.com/en_eur/men/hats-scarves-and-gloves/scarves.html",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\шарф_мужской",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ШАРФЫ", 
+		"subcategory": "ШАРФЫ"
+    },
+	"шапка_женская":{
+        "url":"https://www.cos.com/en_eur/women/hats-scarves-and-gloves/hats.html",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\шапка_женская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШЛЯПЫ", 
+		"subcategory": "ШАПКИ"
+    },
+	"шапка_мужская":{
+        "url":"https://www.cos.com/en_eur/men/hats-scarves-and-gloves/hats.html",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\шапка_мужская",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ШАПКИ", 
+		"subcategory": "ШАПКИ"
+    },
+	"сумка":{
+        "url":"https://www.cos.com/en_eur/women/bags.html?sort=newestProduct",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\COS_parser\\profiles\\сумка",
+		"ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+		"ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СУМКИ", 
+		"subcategory": "СУМКИ"
+    }
+
+}

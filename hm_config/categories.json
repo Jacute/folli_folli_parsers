@@ -1,0 +1,1652 @@
+{
+
+    "толстовки для девочек":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/odziez/swetry-bluzy/bluzy.html?sort=newProduct&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"/home/jacute/PycharmProjects/H&M_parser/profiles/толстовки для девочек",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"				
+		
+		
+		
+    },
+	"платье_женское":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Sukienka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\платье_женское",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПЛАТЬЯ И САРАФАНЫ", 
+		"subcategory": "ПЛАТЬЕ"				
+		
+		
+		
+		
+		
+    },
+	"блузка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Bluzka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\блузка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "БЛУЗКИ"					
+		
+		
+		
+		
+    },
+	"боди_женское":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/underwear-nightwear.html?sort=newProduct&productTypes=Body&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\боди_женское",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ТОПЫ И БОДИ", 
+		"subcategory": "БОДИ"			
+		
+		
+		
+    },
+	"бомбер_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Kurtka&clothingStyles=Kurtka+bomberka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\бомбер_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"КУРТКИ", 
+		"subcategory": "БОМБЕР"				
+		
+		
+		
+		
+		
+		
+    },
+	"бомбер_мужской":{
+        "url":"https://www2.hm.com/pl_pl/on/produkty/kurtki-i-plaszcze/kurtki-pilotki.html?sort=newProduct&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\бомбер_мужской",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"КУРТКИ", 
+		"subcategory": "БОМБЕР"
+		
+		
+		
+		
+		
+    },
+	"бюстгальтер":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/underwear-nightwear.html?sort=newProduct&productTypes=Biustonosz&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\бюстгальтер",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3334",
+		"gender":"woman",		
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "БЮСТГАЛТЕР"				
+		
+		
+		
+    },
+	"брюки_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\брюки_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+    },
+	"брюки_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\брюки_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"				
+		
+		
+		
+		
+    },
+	"брюки_спортивные_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Spodnie&clothingStyles=Spodnie+dresowe&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\брюки_спортивные_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+    },
+	"брюки_спортивные_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=newProduct&productTypes=Spodnie&clothingStyles=Spodnie+dresowe&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\брюки_спортивные_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+				
+		
+    },
+	"джинсы_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\джинсы_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"				
+		
+		
+		
+		
+		
+		
+    },
+	"жилет_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Kamizelka+garniturowa&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\жилет_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "жилет"			
+		
+		
+		
+		
+		
+    },
+	"жилет_мужской":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=newProduct&productTypes=Kamizelka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\жилет_мужской",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ЖИЛЕТ"			
+		
+		
+		
+		
+    },
+	"кардиган_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Kardigan&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\кардиган_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "КАРДИГАН"			
+		
+		
+		
+		
+		
+    },
+	"куртка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\куртка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"7",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+    },
+	"пуховик_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Kurtka&clothingStyles=Kurtka+zimowa&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\пуховик_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"10",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПУХОВИКИ И ПАРКИ", 
+		"subcategory": "ПУХОВИК"			
+		
+		
+		
+		
+		
+		
+    },
+	"пуховик_мужской":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=newProduct&productTypes=Kurtka&clothingStyles=Kurtka+anorak,Kurtka+zimowa&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\пуховик_мужской",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"10",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПУХОВИКИ И ПАРКИ", 
+		"subcategory": "ПУХОВИК"			
+		
+		
+		
+		
+		
+		
+    },
+	"дубленка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Kurtka,P%C5%82aszcz&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\дубленка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"10",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПАЛЬТО И ДУБЛЕНКИ", 
+		"subcategory": "ДУБЛЕНКА"			
+		
+		
+		
+		
+		
+    },
+	"куртка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\куртка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"7",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+    },
+	"пальто_женское":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=P%C5%82aszcz&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\пальто_женское",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"7",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПАЛЬТО И ДУБЛЕНКИ", 
+		"subcategory": "ПАЛЬТО"			
+		
+		
+		
+		
+    },
+	"пиджак_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Marynarka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\пиджак_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ПИДЖАК"			
+		
+		
+		
+		
+    },
+	"рубашка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Koszula&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\рубашка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+		
+    },
+	"свитер_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\свитер_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"				
+		
+		
+		
+		
+		
+    },
+	"толстовка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\толстовка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"				
+		
+		
+		
+		
+    },
+	"топ_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=newProduct&productTypes=Top&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\топ_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"ТОПЫ И БОДИ", 
+		"subcategory": "ТОПЫ"				
+		
+		
+		
+		
+		
+		
+    },
+	"трусы_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/underwear-nightwear.html?sort=newProduct&productTypes=Figi&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\трусы_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3334",
+		"gender":"woman",		
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ТРУСЫ"				
+		
+		
+		
+		
+		
+    },
+	"футболка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\футболка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+		
+    },
+	"юбка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Sp%C3%B3dnica&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\юбка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ЮБКИ", 
+		"subcategory": "ЮБКА"			
+		
+		
+		
+		
+		
+    },
+	"легинсы_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/ubrania.html?sort=stock&productTypes=Legginsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\легинсы_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"БРЮКИ", 
+		"subcategory": "ЛЕГИНСЫ"			
+		
+		
+		
+		
+    },
+	"толстовка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\толстовка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"			
+		
+		
+		
+		
+		
+    },
+	"рубашка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Koszula&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\рубашка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+    },
+	"футболка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\футболка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+    },
+	"майка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Top&sleeveLengths=Bez+r%C4%99kaw%C3%B3w&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\майка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+		
+    },
+	"свитер_мужской":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\свитер_мужской",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"				
+		
+		
+		
+    },
+	"джинсы_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/ubrania.html?sort=stock&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\джинсы_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"				
+		
+		
+		
+		
+    },
+	"пижама_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/underwear-nightwear.html?sort=stock&productTypes=Pi%C5%BCama&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОДЕЖДА\\пижама_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ПИЖАМА"				
+		
+		
+    },
+	
+	
+	
+	"бомбер_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/odziez-wierzchnia/kurtki-bomberki.html?sort=newProduct&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\бомбер_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"КУРТКИ", 
+		"subcategory": "БОМБЕР"			
+		
+		
+		
+		
+		
+    },
+	"бомбер_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/odziez-wierzchnia/kurtki-bomberki.html?sort=newProduct&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\бомбер_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"4",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"КУРТКИ", 
+		"subcategory": "БОМБЕР"			
+		
+		
+		
+		
+    },
+	"брюки_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+		
+    },
+	"брюки_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+		
+    },
+	"брюки_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+    },
+	"брюки_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Spodnie&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+		
+    },
+	
+	"брюки_спортивные_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=newProduct&productTypes=Spodnie&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_спортивные_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+    },
+	"брюки_спортивные_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=newProduct&productTypes=Spodnie&clothingStyles=Spodnie+dresowe&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\брюки_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "БРЮКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	
+	"блузка_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Bluzka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\блузка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БЛУЗКИ И РУБАШКИ", 		
+		"subcategory": "БЛУЗКИ"			
+		
+		
+		
+		
+		
+    },
+	"блузка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=newProduct&productTypes=Bluzka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\блузка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БЛУЗКИ И РУБАШКИ", 		
+		"subcategory": "БЛУЗКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	"джинсы_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\джинсы_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"			
+		
+		
+		
+		
+		
+    },
+	"джинсы_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\джинсы_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"			
+		
+		
+		
+		
+		
+    },
+	"джинсы_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=newProduct&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\джинсы_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"			
+		
+		
+		
+		
+		
+		
+    },
+	"джинсы_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=D%C5%BCinsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\джинсы_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ДЖИНСЫ", 
+		"subcategory": "ДЖИНСЫ"			
+		
+		
+		
+		
+		
+    },
+	
+	"жилет_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Kamizelka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\жилет_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ЖИЛЕТ"			
+		
+		
+		
+		
+		
+		
+    },
+	"жилет_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Kamizelka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\жилет_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ЖИЛЕТ"			
+		
+		
+		
+		
+		
+    },
+	"жилет_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Kamizelka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\жилет_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ЖИЛЕТ"			
+		
+		
+		
+		
+		
+    },
+	"жилет_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/odziez.html?sort=stock&productTypes=Kamizelka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\жилет_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПИДЖАКИ", 
+		"subcategory": "ЖИЛЕТ"			
+				
+		
+		
+    },
+	
+	"кардиган_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Kardigan&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\кардиган_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "КАРДИГАН"			
+		
+		
+		
+		
+		
+		
+    },
+	"кардиган_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=newProduct&productTypes=Kardigan&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\кардиган_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "КАРДИГАН"			
+		
+		
+		
+		
+		
+    },
+	
+	"комбинезон_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/odziez.html?sort=stock&productTypes=Kombinezon&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\комбинезон_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КОМБИНЕЗОН", 
+		"subcategory": "КОМБИНЕЗОН"			
+		
+		
+		
+		
+		
+		
+		
+    },
+	"комбинезон_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/odziez.html?sort=newProduct&productTypes=Kombinezon&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\комбинезон_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КОМБИНЕЗОН", 
+		"subcategory": "КОМБИНЕЗОН"			
+		
+		
+		
+		
+    },
+	
+	"Комплект_одежды":{
+        "url":"https://www2.hm.com/pl_pl/niemowlece/ubrania-dla-noworodkow/nowosci.html?sort=stock&productTypes=Body,Bufiaste+majtki,Kurtka,Legginsy,Pi%C5%BCama+jednocz%C4%99%C5%9Bciowa,Spodnie,Sweter,T-shirt,Top&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\комплект_одежды",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3334",
+		"gender":"kids",
+		"category":"НОВОРОЖДЕННЫЕ", 
+		"subcategory": "КОМПЛЕКТ ОДЕЖДЫ"			
+		
+		
+		
+		
+		
+    },
+	"куртка_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\куртка_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+		
+    },
+	"куртка_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\куртка_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+		
+    },
+	"куртка_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\куртка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+		
+    },
+	"куртка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Kurtka&image-size=small&image=model&offset=0&page-size=36",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\куртка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"КУРТКИ", 
+		"subcategory": "КУРТКА"			
+		
+		
+		
+		
+		
+    },
+	"рубашка_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Koszula&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\рубашка_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+    },
+	"рубашка_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=newProduct&productTypes=Koszula&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\рубашка_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+		
+    },
+	"легинсы_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Legginsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\легинсы_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "ЛЕГИНСЫ"			
+		
+		
+		
+		
+		
+    },
+	"легинсы_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Legginsy&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\легинсы_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"БРЮКИ", 
+		"subcategory": "ЛЕГИНСЫ"			
+		
+		
+		
+		
+		
+    },
+	"рубашка_для_девочки_2_8":{
+        "url":"",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\рубашка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+		
+    },
+	"рубашка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Koszula&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\рубашка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"БЛУЗКИ И РУБАШКИ", 
+		"subcategory": "РУБАШКА"			
+		
+		
+		
+		
+		
+    },
+	"свитер_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\свитер_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"			
+		
+		
+		
+		
+		
+		
+    },
+	"свитер_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\свитер_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"				
+		
+		
+		
+		
+    },
+	"свитер_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\свитер_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"				
+		
+		
+		
+		
+		
+    },
+	"свитер_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Sweter&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\свитер_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"СВИТЕРЫ И КАРДИГАНЫ", 
+		"subcategory": "СВИТЕР"				
+		
+		
+		
+		
+		
+		
+    },
+	"топ_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Top&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\топ_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОПЫ И БОДИ", 
+		"subcategory": "ТОПЫ"			
+		
+		
+		
+		
+		
+		
+    },
+	"топ_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Top&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\топ_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОПЫ И БОДИ", 
+		"subcategory": "ТОПЫ"			
+		
+		
+		
+    },
+	"пижама_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Pi%C5%BCama&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\пижама_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ПИЖАМА"			
+		
+		
+		
+		
+		
+		
+    },
+	"пижама_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Pi%C5%BCama&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\пижама_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ПИЖАМА"			
+		
+		
+		
+		
+		
+    },
+	"пижама_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=newProduct&productTypes=Pi%C5%BCama&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\пижама_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ПИЖАМА"				
+		
+		
+		
+		
+		
+		
+    },
+	"пижама_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Pi%C5%BCama&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\пижама_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"НИЖНЕЕ БЕЛЬЕ", 
+		"subcategory": "ПИЖАМА"				
+		
+		
+		
+		
+		
+    },
+	"платье_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Sukienka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\платье_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПЛАТЬЯ И САРАФАНЫ", 
+		"subcategory": "ПЛАТЬЕ"			
+		
+		
+		
+		
+		
+    },
+	"платье_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=newProduct&productTypes=Sukienka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\платье_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ПЛАТЬЯ И САРАФАНЫ", 
+		"subcategory": "ПЛАТЬЕ"			
+		
+		
+		
+		
+    },
+	"толстовка_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\толстовка_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"			
+		
+		
+		
+		
+		
+    },
+	"толстовка_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\толстовка_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"			
+		
+		
+		
+		
+		
+		
+    },
+	"толстовка_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\толстовка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"			
+		
+		
+		
+		
+		
+		
+    },
+	"толстовка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Bluza&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\толстовка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",
+		"category":"ТОЛСТОВКИ И ХУДИ", 
+		"subcategory": "ТОЛСТОВКА"			
+		
+		
+		
+		
+		
+		
+    },
+	"футболка_для_мальчика_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow/nowosci.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\футболка_для_мальчика_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+		
+    },
+	"футболка_для_мальчика_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-chlopcow-9-14-l/nowosci.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\футболка_для_мальчика_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+    },
+	"футболка_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\футболка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+		
+    },
+	"футболка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=T-shirt&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\футболка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ФУТБОЛКИ", 
+		"subcategory": "ФУТБОЛКИ"			
+		
+		
+		
+		
+		
+    },
+	"юбка_для_девочки_2_8":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek/nowosci.html?sort=stock&productTypes=Sp%C3%B3dnica&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\юбка_для_девочки_2_8",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ЮБКИ", 
+		"subcategory": "ЮБКА"			
+		
+		
+		
+		
+		
+    },
+	"юбка_для_девочки_9_14":{
+        "url":"https://www2.hm.com/pl_pl/dziecko/ubrania-dla-dziewczynek-9-14-l/nowosci.html?sort=stock&productTypes=Sp%C3%B3dnica&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ДЕТСКАЯ_ОДЕЖДА\\юбка_для_девочки_9_14",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"3",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"kids",		
+		"category":"ЮБКИ", 
+		"subcategory": "ЮБКА"			
+		
+		
+		
+    },
+	
+	
+	
+	"сапоги_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Trzewiki&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\сапоги_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"САПОГИ", 
+		"subcategory": "САПОГИ"			
+		
+		
+		
+		
+    },
+	"туфли_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Cz%C3%B3%C5%82enka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\туфли_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"ТУФЛИ", 
+		"subcategory": "ТУФЛИ"			
+		
+		
+		
+		
+    },
+	"туфли_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Buty+derby,Mokasyny&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\туфли_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"man",		
+		"category":"ТУФЛИ", 
+		"subcategory": "ТУФЛИ"			
+		
+		
+		
+		
+    },
+	"кроссовки_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Buty+sportowe&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\кроссовки_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"КРОССОВКИ", 
+		"subcategory": "КРОССОВКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	"ботинки_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Botki,Botki+z+mi%C4%99kk%C4%85+cholewk%C4%85,Sztyblety,Trzewiki&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\ботинки_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"БОТИНКИ", 
+		"subcategory": "БОТИНКИ"			
+		
+		
+		
+		
+    },
+	"ботильоны_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=newProduct&productTypes=Obuwie&footwearStyles=Botki&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\ботильоны_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"БОТИЛЬОНЫ", 
+		"subcategory": "БОТИЛЬОНЫ"			
+		
+		
+		
+		
+		
+    },
+	"ботинки_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/produkty/polbuty.html?sort=newProduct&footwearStyles=Sztyblety&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\ботинки_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"man",		
+		"category":"БОТИНКИ", 
+		"subcategory": "БОТИНКИ"		
+		
+		
+		
+		
+		
+    },
+	"кроссовки_мужские":{
+        "url":"https://www2.hm.com/pl_pl/on/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Buty+sportowe&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\кроссовки_мужские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"man",		
+		"category":"КРОССОВКИ", 
+		"subcategory": "КРОССОВКИ"			
+		
+		
+		
+		
+    },
+	    "лоферы_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Obuwie&footwearStyles=Mokasyny&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"shoes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\ОБУВЬ\\лоферы_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.3066",
+		"gender":"woman",		
+		"category":"ЛОФЕРЫ", 
+		"subcategory": "ЛОФЕРЫ"				
+		
+		
+		
+		
+		
+    },
+	
+	"перчатки_женские":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=R%C4%99kawiczki&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\перчатки_женские",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШАРФЫ И ПЕРЧАТКИ", 
+		"subcategory": "ПЕРЧАТКИ"			
+		
+		
+		
+		
+		
+    },
+	"шапка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=newProduct&productTypes=Czapka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"clothes",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\шапка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШЛЯПЫ", 
+		"subcategory": "ШАПКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	"шапка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/produkty/dodatki.html?sort=stock&productTypes=Czapka,Kapelusz&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\шапка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"ШЛЯПЫ", 
+		"subcategory": "ШАПКИ"				
+		
+		
+		
+		
+    },
+	"шарф_женский":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=newProduct&productTypes=Szalik&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\шарф_женский",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"2",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШАРФЫ И ПЕРЧАТКИ", 
+		"subcategory": "ШАРФЫ"				
+		
+		
+		
+		
+		
+		
+    },
+	"кепка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/produkty/dodatki.html?sort=newProduct&productTypes=Czapka+z+daszkiem&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\кепка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"ШЛЯПЫ", 
+		"subcategory": "ШАПКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	"сумка_мужская":{
+        "url":"https://www2.hm.com/pl_pl/on/produkty/dodatki.html?sort=stock&productTypes=Torebka&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\сумка_мужская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"man",		
+		"category":"СУМКИ", 
+		"subcategory": "СУМКИ"			
+		
+		
+		
+		
+		
+    },
+	"сумка_женская":{
+        "url":"https://www2.hm.com/pl_pl/ona/nowosci/buty-i-dodatki.html?sort=stock&productTypes=Torebka&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\сумка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СУМКИ", 
+		"subcategory": "СУМКИ"			
+		
+		
+		
+		
+		
+		
+    },
+	"АКСЕССУАРЫ ВСЕ":{
+        "url":"https://www2.hm.com/pl_pl/ona/produkty/dodatki.html?sort=newProduct&image-size=small&image=model&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\сумка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СУМКИ", 
+		"subcategory": "СУМКИ"			
+		
+		
+    },
+	"ХОУМ":{
+        "url":"https://www2.hm.com/pl_pl/wyprzedaz/home/view-all.html?sort=newProduct&image-size=small&image=stillLife&offset=0&page-size=500",
+        "type_pars":"bags",
+        "folder_path":"C:\\YandexDisk\\H&M_parser_NEW\\profiles\\АКСЕССУАРЫ\\сумка_женская",
+        "ЦЕНА_ДОСТАВКИ_В_КАТЕГОРИИ":"5",
+        "ПРОЦЕНТЫ_ОЗОН":"0.32",
+		"gender":"woman",		
+		"category":"СУМКИ", 
+		"subcategory": "СУМКИ"			
+		
+		
+    }
+
+
+
+
+
+
+
+	
+	
+	
+	
+	
+	
+	
+
+}

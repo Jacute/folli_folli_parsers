@@ -1,0 +1,604 @@
+{
+
+    "BLACK": {
+                "name":"черный",
+                "hexCode": "#000000"
+                              
+             },
+             
+    "LIGHTKHAKI": {
+                "name":"хаки",
+                "hexCode": "#806b2a"
+                              
+             },
+    
+    
+    
+    
+    "PALEKHAKI":{
+                "name":"хаки",
+                "hexCode": "#806b2a"
+                              
+             },
+    "LIGHTBLUE":{
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             },
+    "BLUISH":{
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "BLUE/WHITE":{
+                "name":"синий;белый",
+                "hexCode": "#0000ff"
+                              
+             },
+    "KHAKI":{
+                "name":"хаки",
+                "hexCode": "#806b2a"
+                              
+             },
+    "MULTICOLOURED":{
+                "name":"разноцветный",
+                "hexCode": "#0A0A0A"
+                              
+             },
+    "GOLDEN":{
+                "name":"золотой",
+                "hexCode": "#ffd700"
+                              
+             },
+    "COPPER":{
+                "name":"медь",
+                "hexCode": "#B87333"
+                              
+             },
+    "FUCHSIA":{
+                "name":"фуксия",
+                "hexCode": "#f754e1"
+                              
+             },
+    "ORANGE":{
+                "name":"оранжевый",
+                "hexCode": "#ffa500"
+                              
+             },
+    "BLACK/WHITE":{
+                "name":"черный;белый",
+                "hexCode": "#000000"
+                              
+             },
+    "ECRU/BLACK":{
+                "name":"светло-бежевый;черный",
+                "hexCode": "#000000"
+                              
+             }, 
+    "BROWN":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },
+    "GREEN": {
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "WHITE": {
+                "name":"белый",
+                "hexCode": "#ffffff"
+                              
+             },
+    "ECRU": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "BROWN/TAUPE": {
+                "name":"коричневый;серый",
+                "hexCode": "#964b00"
+                              
+             },
+    "CAMEL": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "BISCUIT": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "BLUES": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "RED": {
+                "name":"красный",
+                "hexCode": "#ff0000"
+                              
+             }, 
+    "OYSTERWHITE": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "MUSTARD": {
+                "name":"горчичный",
+                "hexCode": "#ffdb58"
+                              
+             },
+    "CHALKPINK": {
+                "name":"светло-розовый",
+                "hexCode": "#ffb6c1"
+                              
+             },
+    "NAVY / WHITE": {
+                "name":"синий;белый",
+                "hexCode": "#0000ff"
+                              
+             },
+    "MID-CAMEL": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "OIL": {
+                "name":"оливковый",
+                "hexCode": "#808000"
+                              
+             },
+    "SAND": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "LIGHTPINK": {
+                "name":"светло-розовый",
+                "hexCode": "#ffb6c1"
+                              
+             },
+    "BEIGE": {
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },
+    "TURQUOISE": {
+                "name":"бирюзовый",
+                "hexCode": "#30d5c8"
+                              
+             },
+    "BLUE": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "MID-BLUE": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "DARKGREEN": {
+                "name":"темно-зеленый",
+                "hexCode": "#013220"
+                              
+             }, 
+    "CLAY": {
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },
+    "LIGHTGREEN": {
+                "name":"светло-зеленый",
+                "hexCode": "#90ee90"
+                              
+             },
+    "BLACK/FUCHSIA": {
+                "name":"черный;фуксия",
+                "hexCode": "#000000"
+                              
+             }, 
+    "BRIGHTRED": {
+                "name":"красный",
+                "hexCode": "#ff0000"
+                              
+             }, 
+    "ECRU/NAVY": {
+                "name":"светло-бежевый;темно-синий",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "GREEN/ECRU": {
+                "name":"зеленый;светло-бежевый",
+                "hexCode": "#008000"
+                              
+             },
+    "LILAC": {
+                "name":"сиреневый",
+                "hexCode": "#c8a2c8"
+                              
+             },
+    "PINK": {
+                "name":"розовый",
+                "hexCode": "#ffc0cb"
+                              
+             },
+    "STRIPED": {
+                "name":"разноцветный",
+                "hexCode": "#0A0A0A"
+                              
+             },
+    "BLUE/GREEN": {
+                "name":"синий;зеленый",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "GREEN/BLUE": {
+                "name":"зеленый;синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "PURPLE": {
+                "name":"фиолетовый",
+                "hexCode": "#8b00ff"
+                              
+             }, 
+    "INDIGO": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "ICE": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "LIGHTBEIGE": {
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "SILVER": {
+                "name":"серебристый",
+                "hexCode": "#c0c0c0"
+                              
+             },
+    "PALEPINK": {
+                "name":"розовый",
+                "hexCode": "#ffc0cb"
+                              
+             },
+    "BLACK/BROWN": {
+                "name":"черный;коричневый",
+                "hexCode": "#000000"
+                              
+             }, 
+    "AQUAMARIN": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "SEAGREEN": {
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "LIME": {
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "DARKFUCHSIA": {
+                "name":"фуксия",
+                "hexCode": "#f754e1"
+                              
+             },
+    "WHITE/GREEN": {
+                "name":"белый;зеленый",
+                "hexCode": "#ffffff"
+                              
+             },
+    "NAVYBLUE": {
+                "name":"темно-синий",
+                "hexCode": "#002137"
+                              
+             },
+    "PINK/WHITE": {
+                "name":"розовый;белый",
+                "hexCode": "#ffc0cb"
+                              
+             },
+    "DARKORANGE": {
+                "name":"оранжевый",
+                "hexCode": "#ffa500"
+                              
+             },
+    "NEONPINK":{
+                "name":"розовый",
+                "hexCode": "#ffc0cb"
+                              
+             },
+    "CREAM":{
+                "name":"кремовый",
+                "hexCode": "#fdf4e3"
+                              
+             },
+    "OCHRE":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },
+    "OLIVE":{
+                "name":"оливковый",
+                "hexCode": "#808000"
+                              
+             },
+    "RUSSET":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },
+    "GREYMARL":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "DEEPBLUE":{
+                "name":"голубой",
+                "hexCode": "#42aaff"
+                              
+             },
+    "TANGERINE":{
+                "name":"оранжевый",
+                "hexCode": "#ffa500"
+                              
+             },
+    "GREY":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "PISTACHIO":{
+                "name":"светло-зеленый",
+                "hexCode": "#90ee90"
+                              
+             },
+    "MEDIUMKHAKI":{
+                "name":"хаки",
+                "hexCode": "#806b2a"
+                              
+             },
+    "PASTELGREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "VANILLA":{
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "WASHED":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "GOLD":{
+                "name":"золотой",
+                "hexCode": "#ffd700"
+                              
+             },
+    "TAN":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },
+    "BURGUNDY":{
+                "name":"красный",
+                "hexCode": "#ff0000"
+                              
+             }, 
+    "BLUSH-BEIGE":{
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },
+    "MULTICOLORED":{
+                "name":"разноцветный",
+                "hexCode": "#0A0A0A"
+                              
+             },
+    "LEATHER":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },
+    "MULBERRY":{
+                "name":"малиновый",
+                "hexCode": "#dc143c"
+                              
+             },
+    "YELLOW":{
+                "name":"желтый",
+                "hexCode": "#ffff00"
+                              
+             },
+    "MOSS":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "MUSTARDYELLOW":{
+                "name":"желтый",
+                "hexCode": "#ffff00"
+                              
+             },
+    "DARKBLUE":{
+                "name":"голубой",
+                "hexCode": "#42aaff"
+                              
+             },
+    "SZARYMELANŻOWY":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "CZARNY":{
+                "name":"черный",
+                "hexCode": "#000000"
+                              
+             },
+    "ZIELONY":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "EMERALD":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "MEDIUMBLUE":{
+                "name":"синий",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "PALEGREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+    "SKYBLUE":{
+                "name":"голубой",
+                "hexCode": "#42aaff"
+                              
+             },
+    "BOUGAINVILLEA":{
+                "name":"бордовый",
+                "hexCode": "#9b2d30"
+                              
+             }, 
+    "INTENSERED":{
+                "name":"красный",
+                "hexCode": "#ff0000"
+                              
+             }, 
+    "BLUE_WHITE":{
+                "name":"синий;белый",
+                "hexCode": "#0000ff"
+                              
+             }, 
+    "CAVA":{
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "SAND_BLUE":{
+                "name":"светло-бежевый;синий",
+                "hexCode": "#fffeb6"
+                              
+             },
+    "PEARLGREY":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "AQUAMARINE":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+    "BLACK_WHITE":{
+                "name":"черный;белый",
+                "hexCode": "#000000"
+                              
+             },
+    "STONE":{
+                "name":"серый",
+                "hexCode": "#808080"
+                              
+             },
+	"LIGHTECRU":{
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+	"MID-ECRU":{
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+	"DENIMBLUE":{
+                "name":"светло-бежевый",
+                "hexCode": "#fffeb6"
+                              
+             },
+	"MINK":{
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },
+	"OLIVEGREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+  	"NAVY":{
+                "name":"темно-синий",
+                "hexCode": "#002137"
+                              
+             },
+   	"BEIGE / BLACK":{
+                "name":"бежевый;черный",
+                "hexCode": "#f5f5dc"
+                              
+             },   
+    "IVORY":{
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },
+    "LIGHT BLUE":{
+                "name":"голубой",
+                "hexCode": "#42aaff"
+                              
+             },
+	"BRIGHT GREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             },
+	"BRIGHT ORANGE":{
+                "name":"оранжевый",
+                "hexCode": "#ffa500"
+                              
+             },
+	"DARK GREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             }, 
+  	"DARK BEIGE":{
+                "name":"бежевый",
+                "hexCode": "#f5f5dc"
+                              
+             },  
+    "DARK NAVY":{
+                "name":"темно-синий",
+                "hexCode": "#002137"
+                              
+             },   
+    "DARK BROWN":{
+                "name":"коричневый",
+                "hexCode": "#964b00"
+                              
+             },     
+    "OLIVE GREEN":{
+                "name":"зеленый",
+                "hexCode": "#008000"
+                              
+             }
+    
+}

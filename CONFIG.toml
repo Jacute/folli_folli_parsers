@@ -1,0 +1,25 @@
+[ParserManager]
+zara_parser_path = "C:\\YandexDisk\\ZARA_ПАРСЕР\\standart_files"
+#zara_available_updates_thread_count = 2   #колиство потоков для обновления цен ZARA
+
+masimo_parser_path = "C:\\YandexDisk\\ПАРСЕР_МАССИМО\\standart_files"
+bershka_parser_path = "C:\\YandexDisk\\BERSHKA_ПАРСЕР\\standart_files"
+pnb_parser_path = "C:\\YandexDisk\\PNB_ПАРСЕР\\standart_files"
+
+# *-----SITES PARSERS------* #
+# * пути до конфигов
+hm_parser_path = "hm_config"
+cos_parser_path = "cos_config"
+
+au_PROFILES_path = "au_PROFILES.json"
+
+images_path = "imgs"
+
+
+
+[Server]
+host = ''
+port = 27017
+db_password = ''
+
+
