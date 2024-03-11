@@ -301,7 +301,7 @@ def main(mode, category=None):
     if mode=='parser':
         COLLECTION_NAME = 'tmp_Products'
     else:
-        COLLECTION_NAME = 'tmp_Products'
+        COLLECTION_NAME = 'Products'
 
     
     dbClient = MongoClient(host=CONFIG['Server']['host'],port=CONFIG['Server']['port'],username='admin',password=CONFIG['Server']['db_password'])
