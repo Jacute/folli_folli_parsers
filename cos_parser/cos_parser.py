@@ -181,8 +181,12 @@ class CosParser:
             colors = document['colors']
             self.DELIVERY_PRICE = document['deliveryPrice']
             
-            url = f'https://www.cos.com/webservices_cos/service/product/cos-europe/availability/{article}.json'        
-            jsonData = make_request(url, headers=self.headers).text
+            url = f'https://www.cos.com/webservices_cos/service/product/cos-europe/availability/{article}.json'       
+            try:
+                jsonData = make_request(url, headers=self.headers).text
+            except:
+                print("Skip URL:", url)
+                continue
             dct = json.loads(jsonData)
             availableProducts = dct['availability'] + dct['fewPieceLeft']
             if availableProducts == []:
@@ -191,7 +195,11 @@ class CosParser:
                         colors[i]['sizes'][j]['availability'] = 'out_of_stock'
             else:
                 url = f'https://www.cos.com/en_eur/women/womenswear/tops/product.oversized-t-shirt-black.{availableProducts[0][:-3]}.html'
-                html = make_request(url, headers=self.headers).text
+                try:
+                    html = make_request(url, headers=self.headers).text
+                except:
+                    print("Skip URL:", url)
+                    continue
                 soup = BeautifulSoup(html, 'lxml')
                 originalPrice = float(soup.find('span', {'class': 'productPrice'}).text.strip()[2:].replace(',', '.'))
                 price = self.getPrice(originalPrice)
@@ -295,7 +303,7 @@ def main(mode, category=None):
     if mode=='parser':
         COLLECTION_NAME = 'tmp_Products'
     else:
-        COLLECTION_NAME = 'tmp_Products'
+        COLLECTION_NAME = 'Products'
 
     
     dbClient = MongoClient(host=CONFIG['Server']['host'],port=CONFIG['Server']['port'],username='admin',password=CONFIG['Server']['db_password'])

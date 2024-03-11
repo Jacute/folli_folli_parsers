@@ -165,8 +165,12 @@ class HMParser:
             self.DELIVERY_PRICE = document['deliveryPrice']
             
             try:
-                url = f'https://www2.hm.com/hmwebservices/service/product/pl/availability/{article}.json'        
-                jsonData = make_request(url, headers=self.headers).text
+                url = f'https://www2.hm.com/hmwebservices/service/product/pl/availability/{article}.json'   
+                try:    
+                    jsonData = make_request(url, headers=self.headers).text
+                except:
+                    print("Skip URL:", url)
+                    continue
                 dct = json.loads(jsonData)
                 availableProducts = dct['availability'] + dct['fewPieceLeft']
                 if availableProducts == []:
@@ -176,7 +180,11 @@ class HMParser:
                 else:
                     url = f'https://www2.hm.com/pl_pl/productpage.{availableProducts[0][:-3]}.html'
                     print('Parse URL:', url)
-                    html = make_request(url, headers=self.headers).text
+                    try:
+                        html = make_request(url, headers=self.headers).text
+                    except:
+                        print("Skip URL:", url)
+                        continue
                     soup = BeautifulSoup(html, 'lxml')
                     originalPrice = float(soup.find('span', class_='price-value').text.strip().replace(' PLN', '').replace(',', '.'))
                     price = self.getPrice(originalPrice)
