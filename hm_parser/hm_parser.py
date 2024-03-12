@@ -67,8 +67,8 @@ class HMParser:
             response = make_request(url, headers=self.headers)
             html = response.text
             
-            with open('last_page.html', 'w') as f:
-                f.write(html)
+            """with open('last_page.html', 'w') as f:
+                f.write(html)"""
             
             soup = BeautifulSoup(html, 'lxml')
                 

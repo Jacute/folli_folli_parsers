@@ -78,8 +78,8 @@ def make_request(url, method='get', headers=None, cookies=None, files=None, retr
                 response = requests.post(url, headers=headers, cookies=cookies, files=files, verify=False)
             else:
                 response = requests.get(url, headers=headers, cookies=cookies)
-            with open('last_page.html', 'w') as f:
-                f.write(response.text)
+            """with open('last_page.html', 'w') as f:
+                f.write(response.text)"""
             response.raise_for_status()  # Бросает исключение для 4xx и 5xx кодов ответа
             return response
         except RequestException as e:
