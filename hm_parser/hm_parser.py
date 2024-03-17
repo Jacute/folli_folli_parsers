@@ -24,7 +24,6 @@ HM_CONFIG = CONFIG['ParserManager']['hm_parser_path']
 
 class HMParser:
     def __init__(self, categoryTableName, mode, headers, collection):
-        self.brand = 'h&m'
         self.host = 'https://www2.hm.com'
         
         self.categoryTableName = categoryTableName
@@ -44,12 +43,7 @@ class HMParser:
             sys.exit()
     
     def modeParser(self):    
-        response = make_request(self.CATEGORY_URL, headers=self.headers)
-        html = response.text
-        soup = BeautifulSoup(html, 'lxml')
-        
-        products = soup.find_all('div', class_='c02f13')
-        products = [i.find('a') for i in products]
+        products = self.getAllProducts()
         
         inserted_count = 0
         urls = []
@@ -71,11 +65,15 @@ class HMParser:
                 f.write(html)"""
             
             soup = BeautifulSoup(html, 'lxml')
-                
+            brand = soup.find('h2', class_='BodyText-module--general__jkobl ProductName-module--brandLink__3BTHV')
+            if brand:
+                brand = brand.text.lower()
+            else:
+                brand = 'h&m'
 
             name = translate(soup.h1.text)
             productArticle = re.search(r'\.[0-9]+\.', url).group()[1:-4] # H&M_0975846001_XXS
-            uniq_article = f'{self.brand}_{productArticle}'
+            uniq_article = f'{brand}_{productArticle}'
             
             
             originalPrice = soup.find('span', class_='price-value').text
@@ -107,10 +105,10 @@ class HMParser:
                     for image in images:
                         img_url = 'http:' + image['image']
                         
-                        filepath = download_and_save_image(img_url, f'photo/{self.brand}_{productArticle}_{color.replace("/", "_")}_{images.index(image)}')
+                        filepath = download_and_save_image(img_url, f'photo/{brand}_{productArticle}_{color.replace("/", "_")}_{images.index(image)}')
                         if filepath:
                             imagePathes.append(filepath)
-                    loadPhoto(self.brand, productArticle, color, imagePathes)
+                    loadPhoto(brand, productArticle, color, imagePathes)
                     
                     sizes = []
                     
@@ -129,7 +127,7 @@ class HMParser:
             data['name'] = name
             data['article'] = productArticle
             data['uniq_article'] = uniq_article
-            data['brand'] = self.brand
+            data['brand'] = brand
             data['type'] = self.PARSE_TYPE
             data['category'] = self.CATEGORY
             data['gender'] = self.GENDER
@@ -153,7 +151,7 @@ class HMParser:
         print("Inserted:", inserted_count)
     
     def modeUpdate(self):
-        filter_criteria = {"brand": self.brand}
+        filter_criteria = {"brand": {"$in": ["h&m", "cos", "arket"]}}
         projection = {'_id': False, 'article': True, 'colors': True, 'deliveryPrice': True}
 
 
@@ -213,6 +211,27 @@ class HMParser:
 
 
         print("Updated:", updated_count)
+    
+    def getAllProducts(self):
+        products = []
+        page = 1
+        
+        response = make_request(self.CATEGORY_URL + f'&page={page}', headers=self.headers)
+        html = response.text
+        soup = BeautifulSoup(html, 'lxml')
+        
+        next = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
+        while not next:
+            page += 1
+            onePageProducts = soup.find_all('div', class_='c02f13')
+            onePageProducts = [i.find('a') for i in onePageProducts]
+            products.extend(onePageProducts)
+            response = make_request(self.CATEGORY_URL + f'&page={page}', headers=self.headers)
+            html = response.text
+            soup = BeautifulSoup(html, 'lxml')
+            next = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
+        
+        return products
     
     def remove_duplicate_links(self, links):
         seen_prefixes = set()
