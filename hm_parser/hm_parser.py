@@ -65,9 +65,9 @@ class HMParser:
                 f.write(html)"""
             
             soup = BeautifulSoup(html, 'lxml')
-            brand = soup.find('h2', class_='BodyText-module--general__jkobl ProductName-module--brandLink__3BTHV')
+            brand = soup.select_one('#js-product-name h2')
             if brand:
-                brand = brand.text.lower()
+                brand = brand.text.strip().lower()
             else:
                 brand = 'h&m'
 
@@ -151,7 +151,7 @@ class HMParser:
         print("Inserted:", inserted_count)
     
     def modeUpdate(self):
-        filter_criteria = {"brand": {"$in": ["h&m", "cos", "arket"]}}
+        filter_criteria = {"brand": {"$in": ["h&m", "arket"]}}
         projection = {'_id': False, 'article': True, 'colors': True, 'deliveryPrice': True}
 
 
@@ -220,8 +220,9 @@ class HMParser:
         html = response.text
         soup = BeautifulSoup(html, 'lxml')
         
-        next = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
-        while not next:
+        nextBlocked = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
+        next = True
+        while not nextBlocked and next:
             page += 1
             onePageProducts = soup.find_all('div', class_='c02f13')
             onePageProducts = [i.find('a') for i in onePageProducts]
@@ -229,8 +230,8 @@ class HMParser:
             response = make_request(self.CATEGORY_URL + f'&page={page}', headers=self.headers)
             html = response.text
             soup = BeautifulSoup(html, 'lxml')
-            next = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
-        
+            nextBlocked = soup.find('button', class_='f05bd4 aa68da aaa2a2 f8c3c8 ab0e07')
+            next = soup.find('button', class_='f05bd4 aaa2a2 ab0e07')
         return products
     
     def remove_duplicate_links(self, links):
@@ -260,9 +261,10 @@ class HMParser:
         output_str = re.sub(r'"brandPagePath":[^\n]*', '"brandPagePath": ""', output_str)
         output_str = re.sub(r'"zoom":[^\n]*', '"zoom": ""', output_str)
         output_str = re.sub(r'"deliveryBulkyText":[^\n]*', ',"deliveryBulkyText": ""', output_str)
+        output_str = re.sub(r'"brandName": ([^\n]*),', '"brandName": ""', output_str)
             
-        with open('output.json', 'w') as f:
-            f.write(output_str)
+        """with open('output.json', 'w') as f:
+            f.write(output_str)"""
             
         result = json.loads(output_str)
         
