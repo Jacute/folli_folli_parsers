@@ -152,7 +152,7 @@ class HMParser:
     
     def modeUpdate(self):
         filter_criteria = {"brand": {"$in": ["h&m", "arket"]}}
-        projection = {'_id': False, 'article': True, 'colors': True, 'deliveryPrice': True}
+        projection = {'_id': False, 'article': True, 'colors': True, 'deliveryPrice': True, 'brand': True}
 
 
         result = self.collection.find(filter_criteria, projection)
@@ -160,6 +160,7 @@ class HMParser:
         for document in result:            
             article = document['article']
             colors = document['colors']
+            brand = document['brand']
             self.DELIVERY_PRICE = document['deliveryPrice']
             
             try:
@@ -190,7 +191,6 @@ class HMParser:
                     for i in range(len(colors)):
                         for j in range(len(colors[i]['sizes'])):
                             fullArticle = str(article) + str(colors[i]['code']) + str(colors[i]['sizes'][j]['code'])
-                            
                             if fullArticle in availableProducts:
                                 colors[i]['sizes'][j]['availability'] = 'in_stock'
                             else:
@@ -198,10 +198,9 @@ class HMParser:
             except:
                 print("Skip URL:", url)
                 continue
-            filter_criteria = {"article": article} 
+            filter_criteria = {"article": article, "brand": brand}
             
             new_record = {"originalPrice": originalPrice, "price": price, "colors": colors}
-                                    
             try:
                 update_result = self.collection.update_one(filter_criteria, {'$set': new_record})
                 if update_result.modified_count == 1:
@@ -322,7 +321,7 @@ def main(mode, category=None):
     if mode=='parser':
         COLLECTION_NAME = 'tmp_Products'
     else:
-        COLLECTION_NAME = 'Products'
+        COLLECTION_NAME = 'tmp_Products'
 
     
     dbClient = MongoClient(host=CONFIG['Server']['host'],port=CONFIG['Server']['port'],username='admin',password=CONFIG['Server']['db_password'])
